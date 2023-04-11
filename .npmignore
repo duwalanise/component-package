@@ -1,0 +1,12 @@
+.*
+**/tsconfig.json
+node_modules
+src
+**/.storybook
+**/.jest
+**/.github
+**/stories
+babel.config.js
+jest.config.ts
+rollup.config.js
+setupTests.js
