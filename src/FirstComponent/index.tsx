@@ -5,7 +5,7 @@ export type FirstComponentProps = {
 
 export const FirstComponent = (props: FirstComponentProps) => {
   const {
-    title = "Hello, World!",
+    title = "Hello, World",
     body = "I am the first component of this lib",
   } = props;
 
